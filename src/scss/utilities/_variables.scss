@@ -1,0 +1,58 @@
+$breackpoints: (
+  'sm': 375px,
+  'md': 768px,
+  'lg': 1200px,
+  'xl': 1440px,
+  'xxl': 1920px,
+);
+$colors: (
+  // Base
+  'primary': #f07f2e,
+  'success': #82c43c,
+  'info': #4e75ff,
+  'warning': #a461d8,
+  'danger': #fc5a5a,
+  'light': #92929d,
+  'dark': #13131a,
+  // Additional
+  'gray': #b5b5be,
+  'bg-secondary-1': #1c1c24,
+  'bg-secondary-2': #292932,
+  'text-primary-1': #f15c27,
+  'text-primary-2': #d14a00,
+  'white': #fff,
+  'black': #000
+);
+$paddings: (
+  'sm': 4px,
+  'md': 8px,
+  'lg': 16px,
+  'xl': 20px,
+);
+$spacers: (
+  'sm': 24px,
+  'md': 32px,
+  'lg': 36px,
+  'xl': 68px,
+);
+
+$main-font: 'Montserrat';
+
+$font-weights: (
+  'Regular': 400,
+  'Medium': 500,
+  'SemiBold': 600,
+  'Bold': 700,
+);
+
+$font-sizes: (
+  'sm': 14px,
+  'md': 16px,
+  'lg': 20px,
+  'xl': 24px,
+);
+
+$easings: (
+  'fast': 300ms ease,
+  'slow': 600ms ease,
+);
